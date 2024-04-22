@@ -7,8 +7,8 @@ header, main{
     align-items: center;
 }
 button{
-    width: 100px;
-    padding: 15px;
+    width: 120px;
+    padding: 13px;
     font-size: larger;
     color: blue;
     font-style: italic;
